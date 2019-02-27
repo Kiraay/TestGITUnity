@@ -6,3 +6,5 @@ First test;
 local change;
 
 second change;
+
+third one;
